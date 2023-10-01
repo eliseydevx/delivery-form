@@ -1,0 +1,9 @@
+.table__heading_name {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  margin: 0;
+  flex: 1;
+  padding-left: 155px;
+  /* width: 153px; */
+}

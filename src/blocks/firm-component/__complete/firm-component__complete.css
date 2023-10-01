@@ -1,0 +1,6 @@
+.firm-component__complete {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding-right: 29px;
+}

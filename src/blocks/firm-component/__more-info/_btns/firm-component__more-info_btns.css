@@ -1,0 +1,9 @@
+.firm-component__more-info_btns {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding: 53px 35px 0 35px;
+  box-sizing: border-box;
+}

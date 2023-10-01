@@ -1,0 +1,13 @@
+.form-table {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  max-width: 1268px;
+  width: 100%;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  padding: 40px 30px 34px 30px;
+  margin-top: 45px;
+}

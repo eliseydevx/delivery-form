@@ -1,0 +1,6 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  max-width: 1340px;
+  width: 100%;
+}

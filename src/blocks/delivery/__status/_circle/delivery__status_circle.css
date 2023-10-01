@@ -1,0 +1,12 @@
+.delivery__status_circle {
+  width: 17px;
+  height: 17px;
+  flex-shrink: 0;
+
+  background-color: #6ca695;
+  border-radius: 50%;
+}
+
+.circle-yellow {
+  color: #ffd964;
+}

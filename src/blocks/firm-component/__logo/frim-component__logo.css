@@ -1,0 +1,8 @@
+.frim-component__logo {
+  border-radius: 5px;
+  background-image: url(../../../image/firm2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60px;
+  width: 90px;
+}

@@ -1,0 +1,5 @@
+.item-delivery__image-block {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}

@@ -1,0 +1,12 @@
+.input-text {
+  /* max-width: 213px; */
+  width: 168px;
+  /* width: 100%; */
+  padding: 12px 20px;
+  border-radius: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.input-width {
+  width: 215px;
+}

@@ -1,0 +1,74 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/manrope.css);
+
+/* DELIFIRY PAGE StylE */
+
+@import url(./blocks/delivery-form/delivery-form.css);
+@import url(./blocks/delivery-form/__heading/delivery-form__heading.css);
+@import url(./blocks/delivery-form/__heading/_text/delivery-from__heading_text.css);
+
+/* TABLE STYLES */
+
+@import url(./blocks/table/table.css);
+@import url(./blocks/table/__heading/table__heading.css);
+@import url(./blocks/table/__heading/_name/table__heading_name.css);
+
+/* FIRM COMPONENT STYLES */
+
+@import url(./blocks/firm-component/firm-component.css);
+@import url(./blocks/firm-component/__block-about/firm-component__block-about.css);
+@import url(./blocks/firm-component/__image/frim-component__image.css);
+@import url(./blocks/firm-component/__logo/frim-component__logo.css);
+@import url(./blocks/firm-component/__arrow/firm-component__arrow.css);
+@import url(./blocks/firm-component/__about/firm-component_about.css);
+@import url(./blocks/firm-component/__about/_name/firm-component__about_name.css);
+@import url(./blocks/firm-component/__about/_address/firm-component__about_address.css);
+@import url(./blocks/firm-component/__sums/firm-component__sums.css);
+@import url(./blocks/firm-component/__complete/firm-component__complete.css);
+@import url(./blocks/firm-component/__complete-line/firm__component__complete-line.css);
+@import url(./blocks/firm-component/__more-info/firm-component__more-info.css);
+@import url(./blocks/firm-component/__more-info/_delivery/firm-component__more-info__delivery.css);
+@import url(./blocks/firm-component/__more-info/_btns/firm-component__more-info_btns.css);
+@import url(./blocks/firm-component/__more-info/_btn-d/firm-component__more-info_btn-d.css);
+@import url(./blocks/firm-component/__more-info/_btn-s/firm-component__more-info_btn-s.css);
+
+/* DELIVERY CARD STYLES */
+
+@import url(./blocks/delivery/delivery.css);
+@import url(./blocks/delivery/__status/delivery__status.css);
+@import url(./blocks/delivery/__status/_text/delivery__status_text.css);
+@import url(./blocks/delivery/__status/_circle/delivery__status_circle.css);
+@import url(./blocks/delivery/__description/delivery__description.css);
+@import url(./blocks/delivery/__title/delivery__title.css);
+@import url(./blocks/delivery/__subtitle/delivery__subtitle.css);
+@import url(./blocks/delivery/__tracking/delivery__tracking.css);
+
+/* FORM TABLE STYLES */
+
+@import url(./blocks/form-table/form-table.css);
+@import url(./blocks/form-table/__heading/form-table__heading.css);
+@import url(./blocks/form-table/__inputs-block/form-table__inputs-block.css);
+@import url(./blocks/form-table/__inputs-block/_pos/form-table__inputs-block_pos.css);
+@import url(./blocks/form-table/__inputs-block/_name/form-table__inputs-block_name.css);
+
+/* FORM TABLES INPUTS STYLES */
+@import url(./blocks/input-url/input-url.css);
+@import url(./blocks/input-text/input-text.css);
+@import url(./blocks/select-text/select-text.css);
+
+/* TABLE ITEMS STYLES */
+
+@import url(./blocks/table-item/table-item.css);
+@import url(./blocks/table-item/__heading/table-item__heading.css);
+
+/* ITEMS COMPONENT */
+@import url(./blocks/item-delivery/item-delivery.css);
+@import url(./blocks/item-delivery/__image-block/item-delivery__image-block.css);
+@import url(./blocks/item-delivery/__about/item-delivery__about.css);
+@import url(./blocks/item-delivery/__about/_model/item-delivery__about_model.css);
+@import url(./blocks/item-delivery/__about/_name/item-delivery__about_name.css);
+
+/* Counter STYLES */
+@import url(./blocks/counter/counter.css);
+@import url(./blocks/counter/__btn/counter__btn.css);
+@import url(./blocks/counter/__sum/counter__sum.css);

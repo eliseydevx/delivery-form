@@ -1,0 +1,20 @@
+.firm-component__more-info_btn-d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #f25627;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  border: none;
+  padding: 10px 20px;
+  transition: all;
+  background: transparent;
+}
+
+.firm-component__more-info_btn-d:hover {
+  color: #fff;
+  background: #f25627;
+  border-radius: 5px;
+}

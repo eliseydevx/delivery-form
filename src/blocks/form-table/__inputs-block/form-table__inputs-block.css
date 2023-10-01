@@ -1,0 +1,11 @@
+.form-table__inputs-block {
+  display: flex;
+  max-width: 1241px;
+  width: 100%;
+  align-items: flex-start;
+  align-content: flex-start;
+  justify-content: center;
+  gap: 20px 39px;
+  flex-wrap: wrap;
+  padding: 40px 0;
+}

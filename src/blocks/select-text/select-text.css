@@ -1,0 +1,15 @@
+.select-text {
+  /* width: 213px; */
+  /* box-sizing: border-box; */
+  width: 168px;
+  border-radius: 5px;
+  border: 1px solid #c7c7c7;
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.select-width {
+  width: 415px;
+}

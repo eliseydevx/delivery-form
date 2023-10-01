@@ -1,0 +1,11 @@
+.form-table__inputs-block_pos {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.width-block {
+  width: 215px;
+  padding-right: 40px;
+}

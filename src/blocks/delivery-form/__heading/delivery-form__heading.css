@@ -1,0 +1,7 @@
+.delivery-form__heading {
+  display: flex;
+  flex-direction: flex-start;
+  align-items: center;
+  width: 1340px;
+  padding: 40px 40px;
+}

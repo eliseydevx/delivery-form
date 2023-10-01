@@ -1,0 +1,13 @@
+.delivery {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1268px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 15px;
+
+  border-radius: 5px;
+  border: 1px solid #eff0f4;
+  background: #fff;
+}
