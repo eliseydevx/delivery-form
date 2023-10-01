@@ -1,7 +1,7 @@
 import React from "react";
 import Table from "../components/Table";
 
-function DeliveryForm(props) {
+function DeliveryForm() {
   return (
     <section className="delivery-form">
       <div className="delivery-form__heading">
