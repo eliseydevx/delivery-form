@@ -9,7 +9,7 @@ export const firmData = [
     sumOrder: "12 000 000 000 ₽",
     sumShipment: "12 000 000 000 ₽",
     sumRemains: "0",
-    succsess: "100%",
+    succsess: "100 %",
     deliveryData: [
       {
         status: "Доставлен",
@@ -47,7 +47,7 @@ export const firmData = [
     sumOrder: "12 000 000 000 ₽",
     sumShipment: "6 000 000 000 ₽",
     sumRemains: "6 000 000 000 ₽",
-    succsess: "50%",
+    succsess: "50 %",
     deliveryData: [
       {
         status: "Доставлен",

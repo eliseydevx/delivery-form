@@ -53,7 +53,13 @@ function FirmComponent({
 
         <div className="firm-component__complete">
           <p className="firm-component__sums no-width-sum">{succsess}</p>
-          <div className="firm__component__complete-line"></div>
+          {succsess === "50 %" ? (
+            <div className="firm__component__complete-line-half">
+              <div className="line-green"></div>
+            </div>
+          ) : (
+            <div className="firm__component__complete-line"></div>
+          )}
         </div>
       </div>
       {isFirmOpen && (
